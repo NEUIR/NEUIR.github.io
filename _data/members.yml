@@ -4,6 +4,7 @@
   year: 1000000
   headshot: "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9WQmNEMDJqRmhnbnd4eVFwcHpyMFR2Z3dZa011REtzYWdKbEI4RUdGOGlhU2xNaWNoMEZWYXNKdzVQSmd5OWRyckpueEJKNVllM3I3SzdtUGpXNE1tNkhRLzY0MA?x-oss-process=image/format,png"
   email: "mailto:liuzhenghao@mail.neu.edu.cn"
+  email_name: "liuzhenghao@mail.neu.edu.cn"
   homepage: "https://edwardzh.github.io/"
   alum: false
 
@@ -17,6 +18,7 @@
   last: Agrawal
   role: M.S. Student
   email: "mailto:meisen@stumail.neu.edu.cn"
+  email_name: "meisen@stumail.neu.edu.cn"
   homepage: "https://mssssss123.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ms.jpg"
   alum: false
@@ -26,6 +28,7 @@
   role: M.S. Student
   alum: false
   email: "mailto:zhoutianshuo@stumail.neu.edu.cn"
+  email_name: "zhoutianshuo@stumail.neu.edu.cn"
   homepage: "https://whale-z.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ts.png"
   
@@ -34,6 +37,7 @@
   role: M.S. Student
   alum: false
   email: "mailto:2271998@stu.neu.edu.cn"
+  email_name: "2271998@stu.neu.edu.cn"
   homepage: "https://eureka336.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xz.jpg"
   
@@ -42,6 +46,7 @@
   role: M.S. Student
   alum: false
   email: "mailto:xuzhipeng@stumail.neu.edu.cn"
+  email_name: "xuzhipeng@stumail.neu.edu.cn"
   homepage: "https://zhipeng-xu.github.io/"
   headshot: "https://raw.githubusercontent.com/neuir123/neuir123.github.io/main/_data/zp.jpg"
   
@@ -50,6 +55,7 @@
   role: M.S. Student
   alum: false
   email: "mailto:xiongqiushi@stumail.neu.edu.com"
+  email_name: "xiongqiushi@stumail.neu.edu.com"
   homepage: "https://qiushixiong.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xls.jpg"
   
@@ -64,6 +70,7 @@
   role: M.S. Student
   alum: false
   email: "mailto:hdxin2002@gmail.com"
+  email_name: "hdxin2002@gmail.com"
   homepage: "https://xhd0728.github.io/"
   headshot: ""
 

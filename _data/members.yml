@@ -3,7 +3,7 @@
   role: Director
   year: 1000000
   headshot: "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9WQmNEMDJqRmhnbnd4eVFwcHpyMFR2Z3dZa011REtzYWdKbEI4RUdGOGlhU2xNaWNoMEZWYXNKdzVQSmd5OWRyckpueEJKNVllM3I3SzdtUGpXNE1tNkhRLzY0MA?x-oss-process=image/format,png"
-  email: "liuzhenghao@mail.neu.edu.cn"
+  email: "mailto:liuzhenghao@mail.neu.edu.cn"
   homepage: "https://edwardzh.github.io/"
   alum: false
 
@@ -16,7 +16,7 @@
 - first: 梅森
   last: Agrawal
   role: M.S. Student
-  email: "meisen@stumail.neu.edu.cn"
+  email: "mailto:meisen@stumail.neu.edu.cn"
   homepage: "https://mssssss123.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ms.jpg"
   alum: false
@@ -25,7 +25,7 @@
   last: Baldwin
   role: M.S. Student
   alum: false
-  email: "zhoutianshuo@stumail.neu.edu.cn"
+  email: "mailto:zhoutianshuo@stumail.neu.edu.cn"
   homepage: "https://whale-z.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ts.png"
   
@@ -33,7 +33,7 @@
   last: McGee
   role: M.S. Student
   alum: false
-  email: "2271998@stu.neu.edu.cn"
+  email: "mailto:2271998@stu.neu.edu.cn"
   homepage: "https://eureka336.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xz.jpg"
   
@@ -41,7 +41,7 @@
   last: Xu
   role: M.S. Student
   alum: false
-  email: "xuzhipeng@stumail.neu.edu.cn"
+  email: "mailto:xuzhipeng@stumail.neu.edu.cn"
   homepage: "https://zhipeng-xu.github.io/"
   headshot: "https://raw.githubusercontent.com/neuir123/neuir123.github.io/main/_data/zp.jpg"
   
@@ -49,7 +49,7 @@
   last: Noorghasemi
   role: M.S. Student
   alum: false
-  email: "xiongqiushi@stumail.neu.edu.com"
+  email: "mailto:xiongqiushi@stumail.neu.edu.com"
   homepage: "https://qiushixiong.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xls.jpg"
   
@@ -63,7 +63,7 @@
   last: Xu
   role: M.S. Student
   alum: false
-  email: "hdxin2002@gmail.com"
+  email: "mailto:hdxin2002@gmail.com"
   homepage: "https://xhd0728.github.io/"
   headshot: ""
 
@@ -71,7 +71,7 @@
   last: Boschetti
   role: B.S. Student
   alum: false
-  email: "wanghanbin95@163.com"
+  email: "mailto:wanghanbin95@163.com"
   homepage: "https://wanghanbinpanda.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/hb.jpg"
   

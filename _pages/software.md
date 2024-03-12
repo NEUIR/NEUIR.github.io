@@ -11,12 +11,15 @@ gallery:
   - url: "https://github.com/OpenMatch/OpenMatch"
     image_path: /assets/software/openmatch.png
     title: "OpenMatch"
-  - url: "https://github.com/NEUIR/Rebiber_tool_for_NEUIR"
-    image_path: /assets/software/rebiber.png
-    title: "Rebiber"
-  - url: "https://github.com/mccomblab/mccomblab.github.io"
-    image_path: /assets/software/mccomblab.png
-    title: "mccomblab.github.io"
+  - url: "https://github.com/OpenMatch/MARVEL"
+    image_path: /assets/software/marvel.png
+    title: "marvel"
+  - url: "https://github.com/OpenMatch/NeuScraper"
+    image_path: /assets/software/neu.png
+    title: "neuscraper"
+  - url: "https://github.com/OpenMatch/ActiveRAG"
+    image_path: /assets/software/activate_rag.png
+    title: "activate_rag"
 ---
 
 

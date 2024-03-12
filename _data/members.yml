@@ -72,7 +72,7 @@
   email: "mailto:hdxin2002@gmail.com"
   email_name: "hdxin2002@gmail.com"
   homepage: "https://xhd0728.github.io/"
-  headshot: ""
+  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xhd.jpg"
 
 - first: 王汉彬
   last: Boschetti
@@ -83,6 +83,10 @@
   homepage: "https://wanghanbinpanda.github.io/"
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/hb.jpg"
   
+- first: 刘艺彬
+  last: Boschetti
+  role: B.S. Student
+  alum: false
 
 
 - first: 张涵

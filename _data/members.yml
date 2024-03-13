@@ -84,9 +84,13 @@
   headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/hb.jpg"
 
 - first: 刘艺彬
-  last: Boschetti
+  last: Lau
   role: B.S. Student
   alum: false
+  email: "mailto:kelvin.lau.cn@outlook.com"
+  email_name: "kelvin.lau.cn@outlook.com"
+  homepage: "https://10-oasis-01.github.io/"
+  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/lyb.jpg"
 
 
 - first: 张涵

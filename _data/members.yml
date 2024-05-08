@@ -89,6 +89,13 @@
   email: "1806880383@qq.com"
   headshot: "/assets/headshots/xingsheng_zhu.jpg"
 
+- first: 刘书良
+  last: Liu
+  role: M.S. Student
+  alum: false
+  email: "202015093@stu.neu.edu.cn"
+  headshot: "/assets/headshots/shuliang_liu.jpg"
+
 - first: 王汉彬
   last: Wang
   role: B.S. Student

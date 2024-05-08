@@ -91,7 +91,7 @@ author:
   name             : "Xinze Li, Zhipeng Xu, Haidong Xin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
-  location         : "Somewhere"
+  location         : "No.195, Chuangxin Road, Hunnan District, Shenyang, P.R.China"
   email            :
   links:
     - label: "Email"
@@ -118,10 +118,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "liuzhenghao@mail.neu.edu.cn"
+      #url:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: https://twitter.com/cmudrc
+      #url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

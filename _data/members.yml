@@ -1,109 +1,99 @@
 - first: 刘正皓
-  last: McComb
+  last: Liu
   role: Director
-  year: 1000000
-  headshot: "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X2pwZy9WQmNEMDJqRmhnbnd4eVFwcHpyMFR2Z3dZa011REtzYWdKbEI4RUdGOGlhU2xNaWNoMEZWYXNKdzVQSmd5OWRyckpueEJKNVllM3I3SzdtUGpXNE1tNkhRLzY0MA?x-oss-process=image/format,png"
-  email: "mailto:liuzhenghao@mail.neu.edu.cn"
-  email_name: "liuzhenghao@mail.neu.edu.cn"
+  headshot: "/assets/headshots/zhenghao_liu.jpg"
+  email: "liuzhenghao@mail.neu.edu.cn"
   homepage: "https://edwardzh.github.io/"
   alum: false
 
 - first: 兰宇晴
-  last: Chen
+  last: Lan
   role: Ph.D. Student
   alum: false
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/lyq.jpg"
+  headshot: "/assets/headshots/yuqing_lan.jpg"
   
 - first: 梅森
-  last: Agrawal
+  last: Mei
   role: M.S. Student
-  email: "mailto:meisen@stumail.neu.edu.cn"
-  email_name: "meisen@stumail.neu.edu.cn"
+  email: "meisen@stumail.neu.edu.cn"
   homepage: "https://mssssss123.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ms.jpg"
+  headshot: "/assets/headshots/sen_mei.jpg"
   alum: false
   
 - first: 周天硕
-  last: Baldwin
+  last: Zhou
   role: M.S. Student
   alum: false
-  email: "mailto:zhoutianshuo@stumail.neu.edu.cn"
-  email_name: "zhoutianshuo@stumail.neu.edu.cn"
+  email: "zhoutianshuo@stumail.neu.edu.cn"
   homepage: "https://whale-z.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/ts.png"
+  headshot: "/assets/headshots/tianshuo_zhou.png"
   
 - first: 李欣泽
-  last: McGee
+  last: Li
   role: M.S. Student
   alum: false
-  email: "mailto:2271998@stu.neu.edu.cn"
-  email_name: "2271998@stu.neu.edu.cn"
+  email: "2271998@stu.neu.edu.cn"
   homepage: "https://eureka336.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xz.jpg"
+  headshot: "/assets/headshots/xinze_li.jpg"
   
 - first: 徐志鹏
   last: Xu
   role: M.S. Student
   alum: false
-  email: "mailto:xuzhipeng@stumail.neu.edu.cn"
-  email_name: "xuzhipeng@stumail.neu.edu.cn"
-  homepage: "https://zhipeng-xu.github.io/"
-  headshot: "https://raw.githubusercontent.com/neuir123/neuir123.github.io/main/_data/zp.jpg"
+  email: "xuzhipeng@stumail.neu.edu.cn"
+  homepage: "https://pab1x.github.io/"
+  headshot: "/assets/headshots/zhipeng_xu.jpg"
   
 - first: 熊秋实
-  last: Noorghasemi
+  last: Xiong
   role: M.S. Student
   alum: false
-  email: "mailto:xiongqiushi@stumail.neu.edu.com"
-  email_name: "xiongqiushi@stumail.neu.edu.com"
+  email: "xiongqiushi@stumail.neu.edu.cn"
   homepage: "https://qiushixiong.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xls.jpg"
+  headshot: "/assets/headshots/qiushi_xiong.jpg"
   
 - first: 杨伟庆
-  last: Xu
+  last: Yang
   role: M.S. Student
   alum: false
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/wq.jpg"
+  headshot: "/assets/headshots/weiqing_yang.jpg"
 
 - first: 辛海东
-  last: Xu
+  last: Xin
   role: M.S. Student
   alum: false
-  email: "mailto:hdxin2002@gmail.com"
-  email_name: "hdxin2002@gmail.com"
+  email: "xhd0728@hrbeu.edu.cn"
   homepage: "https://xhd0728.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/xhd.png"
+  headshot: "/assets/headshots/haidong_xin.png"
 
 - first: 王汉彬
-  last: Boschetti
+  last: Wang
   role: B.S. Student
   alum: false
-  email: "mailto:wanghanbin95@163.com"
-  email_name: "wanghanbin95@163.com"
+  email: "wanghanbin95@163.com"
   homepage: "https://wanghanbinpanda.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/hb.jpg"
+  headshot: "/assets/headshots/hanbin_wang.jpg"
 
 - first: 刘艺彬
-  last: Lau
+  last: Liu
   role: B.S. Student
   alum: false
-  email: "mailto:kelvin.lau.cn@outlook.com"
-  email_name: "kelvin.lau.cn@outlook.com"
+  email: "kelvin.lau.cn@outlook.com"
   homepage: "https://10-oasis-01.github.io/"
-  headshot: "https://raw.githubusercontent.com/NEUIR/neuir.github.io/main/assets/headshots/lyb.jpg"
+  headshot: "/assets/headshots/yibin_liu.jpg"
 
 
 - first: 张涵
-  last: Lapp
+  last: Zhang
   role: 工商银行辽宁省分行金融科技部:金融科技经理
   year: 2023
-  degree: MS
+  degree: M.S.
   alum: true
   
 - first: 吕源汇一
-  last: Murphy
+  last: Lv
   role: 前往香港攻读博士
   year: 2023
-  degree: BS
+  degree: B.S.
   alum: true
 

@@ -6,27 +6,43 @@
 {% assign mod = counter | modulo: 3 %}
 {% if mod == 1 %}
 <div class="feature__wrapper">
-{% endif %}
+  {% endif %}
   <div class="feature__item">
     <div class="archive__item" style="padding-left: 12.5%; padding-right: 12.5%;">
-      <div class="archive__item-teaser" >
+      <div class="archive__item-teaser">
         {% if member.headshot %}
-          <img src="{{ member.headshot | relative_url }}">
+        <img src="{{ member.headshot | relative_url }}">
         {% else %}
-          <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
+        <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
         {% endif %}
       </div>
 
       <div class="archive__item-body">
-      <h3 class="archive__item-title" style="text-align: center">{{member.first}}</h3>
-      <p style="text-align: center">{{ member.role }}{% if member.email %}<br/> <a href="{{ member.email }}">{{ member.email_name }}</a> {% endif %}{% if member.homepage %}<br/><a href="{{ member.homepage }}">个人主页</a>{% endif %}</p>
-      </div> 
+        <h3 class="archive__item-title" style="text-align: center">{{member.first}}</h3>
+        <p>
+          {{ member.role }}
+          <br />
+          {% if member.email %}
+          <a href="mailto://{{ member.email }}">{{ member.email }}</a>
+          {% endif %}
+          <br />
+          {% if member.homepage %}
+          <a href="{{ member.homepage }}">个人主页</a>
+          {% endif %}
+        </p>
+      </div>
     </div>
   </div>
-{% if mod == 0 %}
+  {% if mod == 0 %}
 </div>
 {% endif %}
 {% endif %}
 {% endfor %}
 </div>
 
+<style>
+  p {
+    text-align: center;
+    word-wrap: break-word;
+  }
+</style>

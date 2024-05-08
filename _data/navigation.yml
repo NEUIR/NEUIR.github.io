@@ -1,7 +1,7 @@
 main:
   - title: "主页"
     url: /
-  - title: "团队介绍"
+  - title: "团队成员"
     url: /team/
   - title: "已发表论文"
     url: /publications/

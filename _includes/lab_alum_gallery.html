@@ -1,9 +1,10 @@
 <h3>已毕业的同学</h3>
 <ol>
-{% for member in site.data.members %}
-{% if member.alum %}
-  {% assign z = "https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " | append: {{member.last}} | replace: " ", "%20" %}
+  {% for member in site.data.members %}
+  {% if member.alum %}
+  {% assign z = "https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " |
+  append: {{member.last}} | replace: " ", "%20" %}
   <li>{{member.first}}, {{member.degree}} {{member.year}}, now {{ member.role }}</li>
-{% endif %}
-{% endfor %}
+  {% endif %}
+  {% endfor %}
 </ol>

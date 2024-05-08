@@ -10,6 +10,8 @@
   last: Lan
   role: Ph.D. Student
   alum: false
+  email: "yuqinglanok@gmail.com"
+  homepage: "https://yuqinglanok.github.io"
   headshot: "/assets/headshots/yuqing_lan.jpg"
   
 - first: 梅森
@@ -65,6 +67,27 @@
   email: "xhd0728@hrbeu.edu.cn"
   homepage: "https://xhd0728.github.io/"
   headshot: "/assets/headshots/haidong_xin.png"
+
+- first: 伍铭妍
+  last: Wu
+  role: M.S. Student
+  alum: false
+  email: "mignonmiyoung@gmail.com"
+  headshot: "/assets/headshots/mingyan_wu.jpg"
+
+- first: 季伊凡
+  last: Ji
+  role: M.S. Student
+  alum: false
+  email: "just_jyf@163.com"
+  headshot: "/assets/headshots/yifan_ji.jpg"
+
+- first: 朱兴盛
+  last: Zhu
+  role: M.S. Student
+  alum: false
+  email: "1806880383@qq.com"
+  headshot: "/assets/headshots/xingsheng_zhu.jpg"
 
 - first: 王汉彬
   last: Wang

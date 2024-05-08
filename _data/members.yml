@@ -1,10 +1,10 @@
 - first: 刘正皓
   last: Liu
   role: Director
-  headshot: "/assets/headshots/zhenghao_liu.jpg"
+  alum: false
   email: "liuzhenghao@mail.neu.edu.cn"
   homepage: "https://edwardzh.github.io/"
-  alum: false
+  headshot: "/assets/headshots/zhenghao_liu.jpg"
 
 - first: 兰宇晴
   last: Lan
@@ -111,7 +111,6 @@
   email: "kelvin.lau.cn@outlook.com"
   homepage: "https://10-oasis-01.github.io/"
   headshot: "/assets/headshots/yibin_liu.jpg"
-
 
 - first: 张涵
   last: Zhang

@@ -1,5 +1,4 @@
 {% assign counter = 0 %}
-{% assign cdn_prefix = "https://fastly.jsdelivr.net/gh/neuir/neuir.github.io" %}
 
 {% for member in site.data.members %}
 {% if member.alum == false %}
@@ -12,7 +11,11 @@
   <div class="feature__item">
     <div class="archive__item" style="padding-left: 12.5%; padding-right: 12.5%;">
       <div class="archive__item-teaser">
-        <img src="{{ cdn_prefix | append: member.headshot | relative_url }}">
+        {% if member.headshot %}
+        <img src="{{ member.headshot | relative_url }}">
+        {% else %}
+        <img src="{{ '/assets/images/placeholder.png' | relative_url }}">
+        {% endif %}
       </div>
 
       <div class="archive__item-body">

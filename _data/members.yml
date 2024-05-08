@@ -89,6 +89,18 @@
   email: "1806880383@qq.com"
   headshot: "/assets/headshots/xingsheng_zhu.jpg"
 
+- first: 武卓阳
+  last: Wu
+  role: M.S. Student
+  alum: false
+  email: "wzy740706@163.com"
+  headshot: "/assets/headshots/zhuoyang_wu.jpg"
+
+- first: 刘袁源
+  last: Liu
+  role: M.S. Student
+  alum: false
+
 - first: 刘书良
   last: Liu
   role: M.S. Student

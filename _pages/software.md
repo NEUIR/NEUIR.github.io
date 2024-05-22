@@ -11,15 +11,15 @@ gallery:
   - url: "https://github.com/OpenMatch/OpenMatch"
     image_path: "/assets/software/openmatch.png"
     title: "OpenMatch"
+  - url: "https://github.com/OpenMatch/ActiveRAG"
+    image_path: "/assets/software/activate_rag.png"
+    title: "activate_rag"
   - url: "https://github.com/OpenMatch/MARVEL"
     image_path: "/assets/software/marvel.png"
     title: "marvel"
   - url: "https://github.com/OpenMatch/NeuScraper"
     image_path: "/assets/software/neu.png"
     title: "neuscraper"
-  - url: "https://github.com/OpenMatch/ActiveRAG"
-    image_path: "/assets/software/activate_rag.png"
-    title: "activate_rag"
 ---
 
 {% include gallery %}

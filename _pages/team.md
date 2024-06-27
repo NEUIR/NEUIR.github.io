@@ -8,5 +8,22 @@ header:
   caption: "[**NEUIR**](/) of [**NorthEastern University**](https://neu.edu.cn)"
 ---
 
-{% include lab_member_gallery.html %}
-{% include lab_alum_gallery.html %}
+# Director
+
+{% include member_director.html %}
+
+# Ph.D. Student
+
+{% include member_phd.html %}
+
+# M.S. Student
+
+{% include member_ms.html %}
+
+# B.S. Student
+
+{% include member_bs.html %}
+
+# Graduated Student
+
+{% include member_graduated.html %}

@@ -1,6 +1,6 @@
 - first: 刘正皓
   last: Liu
-  role: Director
+  role: Associate Professor
   alum: false
   email: "liuzhenghao@mail.neu.edu.cn"
   homepage: "https://edwardzh.github.io/"
@@ -13,6 +13,14 @@
   email: "yuqinglanok@gmail.com"
   homepage: "https://yuqinglanok.github.io"
   headshot: "/assets/headshots/yuqing_lan.jpg"
+
+- first: 李欣泽
+  last: Li
+  role: Ph.D. Student
+  alum: false
+  email: "2271998@stu.neu.edu.cn"
+  homepage: "https://eureka336.github.io/"
+  headshot: "/assets/headshots/xinze_li.jpg"
   
 - first: 梅森
   last: Mei
@@ -29,14 +37,6 @@
   email: "zhoutianshuo@stumail.neu.edu.cn"
   homepage: "https://whale-z.github.io/"
   headshot: "/assets/headshots/tianshuo_zhou.png"
-  
-- first: 李欣泽
-  last: Li
-  role: M.S. Student
-  alum: false
-  email: "2271998@stu.neu.edu.cn"
-  homepage: "https://eureka336.github.io/"
-  headshot: "/assets/headshots/xinze_li.jpg"
   
 - first: 徐志鹏
   last: Xu
@@ -59,6 +59,16 @@
   role: M.S. Student
   alum: false
   headshot: "/assets/headshots/weiqing_yang.jpg"
+
+- first: 王颢岚
+  last: Wang
+  role: M.S. Student
+  alum: false
+
+- first: 姚思佳
+  last: Yao
+  role: M.S. Student
+  alum: false
 
 - first: 辛海东
   last: Xin
@@ -96,11 +106,6 @@
   email: "wzy740706@163.com"
   headshot: "/assets/headshots/zhuoyang_wu.jpg"
 
-- first: 刘袁源
-  last: Liu
-  role: M.S. Student
-  alum: false
-
 - first: 刘书良
   last: Liu
   role: M.S. Student
@@ -126,15 +131,14 @@
 
 - first: 张涵
   last: Zhang
-  role: 工商银行辽宁省分行金融科技部:金融科技经理
+  role: 金融科技经理, 中国工商银行辽宁省分行金融科技部
   year: 2023
   degree: M.S.
   alum: true
   
-- first: 吕源汇一
-  last: Lv
-  role: 前往香港攻读博士
+- first: Yuanhuiyi Lyu (吕原汇一)
+  last: Lyu
+  role: VLIS LAB, Hong Kong University of Science and Technology (HKUST)
   year: 2023
-  degree: B.S.
+  degree: Research Assistant
   alum: true
-

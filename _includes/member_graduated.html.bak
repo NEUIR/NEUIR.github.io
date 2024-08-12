@@ -1,0 +1,9 @@
+<ol>
+  {% for member in site.data.members %}
+  {% if member.alum %}
+  {% assign z = "https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " |
+  append: {{member.last}} | replace: " ", "%20" %}
+  <li>{{member.first}}, {{member.degree}} {{member.year}}, {{ member.role }}</li>
+  {% endif %}
+  {% endfor %}
+</ol>

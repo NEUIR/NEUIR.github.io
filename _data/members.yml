@@ -123,23 +123,29 @@
   homepage: "https://10-oasis-01.github.io/"
   headshot: "/assets/headshots/yibin_liu.jpg"
 
-- first: Hanbin Wang (王汉彬)
+- first: 王汉彬
   last: Wang
-  role: Peking University
+  role: M.S., Peking University
   year: 2024
   degree: M.S.
   alum: true
+  email: "wanghanbin95@163.com"
+  homepage: "https://wanghanbinpanda.github.io/"
+  headshot: "/assets/headshots/hanbin_wang.jpg"
 
-- first: Han Zhang (张涵)
+- first: 张涵
   last: Zhang
   role: Fintech Manager, Financial Technology Department, ICBC Liaoning
   year: 2023
   degree: M.S.
   alum: true
   
-- first: Yuanhuiyi Lyu (吕原汇一)
+- first: 吕原汇一
   last: Lyu
   role: VLIS LAB, Hong Kong University of Science and Technology
   year: 2023
   degree: Research Assistant
   alum: true
+  email: "lvyuanhuiyi@foxmail.com"
+  homepage: "https://qc-ly.github.io/"
+  headshot: "/assets/headshots/yuanhuiyi_lyu.png"

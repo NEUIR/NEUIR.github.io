@@ -1,4 +1,4 @@
-{% assign counter = 0 %}
+<!-- {% assign counter = 0 %}
 
 {% for member in site.data.members %}
 {% if member.role == 'Ph.D. Student' %}
@@ -45,5 +45,62 @@
   p {
     text-align: center;
     word-wrap: break-word;
+  }
+</style> -->
+
+{% assign counter = 0 %}
+
+{% for member in site.data.members %}
+{% if member.role == 'Ph.D. Student' %}
+{% assign counter = counter | plus: 1 %}
+{% assign mod = counter | modulo: 2 %}
+
+{% if mod == 1 %}
+<div class="feature__wrapper" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  {% endif %}
+  <div class="feature__item" style="display: flex; align-items: center; width: 48%; margin-bottom: 5px;">
+    <div class="archive__item-teaser" style="flex-shrink: 0;">
+      {% if member.headshot %}
+      <img src="{{ member.headshot | relative_url }}" style="max-width: 150px; border-radius: 50%;">
+      {% else %}
+      <img src="{{ '/assets/headshots/normal.png' | relative_url }}" style="max-width: 150px; border-radius: 50%;">
+      {% endif %}
+    </div>
+
+    <div class="archive__item-body" style="padding-left: 20px;">
+      <h3 class="archive__item-title">{{member.first}}</h3>
+      <p>
+        {{ member.role }}
+        <br />
+        {% if member.email %}
+        <a href="mailto://{{ member.email }}">{{ member.email }}</a>
+        {% endif %}
+        <br />
+        {% if member.homepage %}
+        <a href="{{ member.homepage }}">个人主页</a>
+        {% endif %}
+      </p>
+    </div>
+  </div>
+  {% if mod == 0 %}
+</div>
+{% endif %}
+{% endif %}
+{% endfor %}
+{% if mod != 0 %}
+</div>
+{% endif %}
+
+<style>
+  p {
+    word-wrap: break-word;
+  }
+
+  .archive__item-title {
+    margin: 0;
+  }
+
+  .feature__item {
+    box-sizing: border-box;
   }
 </style>

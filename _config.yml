@@ -7,8 +7,8 @@ title                    : "东北大学信息检索小组"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : # "Your Name"
-description              : # "An amazing website."
-url                      : # "https://neuir123.github.io/"
+description              : "This is the official homepage of Northeast University Information Retrieval Group (NEUIR)."
+url                      : "https://neuir.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NEUIR/neuir.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -116,24 +116,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "Join us"
       icon: "fas fa-fw fa-envelope-square"
-      #url:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      #url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "mailto://liuzhenghao@mail.neu.edu.cn"
+    - label: "Feedback"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto://i@xinhaidong.top"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/NEUIR/
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files

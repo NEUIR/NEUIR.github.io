@@ -259,14 +259,17 @@ GEM
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
     uri (0.13.0)
+    wdm (0.2.0)
     webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  faraday (~> 2.7, >= 2.7.11)
   github-pages
   jekyll-include-cache
+  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH

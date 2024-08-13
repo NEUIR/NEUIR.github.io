@@ -44,7 +44,7 @@
   alum: false
   email: "xuzhipeng@stumail.neu.edu.cn"
   homepage: "https://pab1x.github.io/"
-  headshot: "/assets/headshots/zhipeng_xu.jpg"
+  headshot: "/assets/headshots/zhipeng_xu.png"
   
 - first: 熊秋实
   last: Xiong
@@ -125,7 +125,7 @@
 
 - first: 王汉彬
   last: Wang
-  role: M.S., Peking University
+  role: M.S. Student<br>北京大学攻读硕士学位
   year: 2024
   degree: M.S.
   alum: true
@@ -135,14 +135,14 @@
 
 - first: 张涵
   last: Zhang
-  role: Fintech Manager, Financial Technology Department, ICBC Liaoning
+  role: 金融科技经理<br>ICBC辽宁省分行金融科技部
   year: 2023
   degree: M.S.
   alum: true
   
 - first: 吕原汇一
   last: Lyu
-  role: VLIS LAB, Hong Kong University of Science and Technology
+  role: Research Assistant<br>VLIS LAB, 香港科技大学
   year: 2023
   degree: Research Assistant
   alum: true

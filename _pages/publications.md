@@ -9,8 +9,7 @@ header:
   caption: "[**NEUIR**](/) of [**NorthEastern University**](https://neu.edu.cn)"
 ---
 ## Conference
-{% include scholar/_includes/publications venue_search=" " link=true %}
+{% include scholar/_includes/publications venue_search="proceedings" link=true %}
 
-<!-- ## Journal
-{% assign journal_list = site.publications.journals | join: ";" %}
-{% include scholar/_includes/publications venue=journal_list link=true %} -->
+## Journal
+{% include scholar/_includes/publications venue_search="journal" link=true %}

@@ -115,6 +115,13 @@
   email: "202015093@stu.neu.edu.cn"
   headshot: "/assets/headshots/shuliang_liu.jpg"
 
+- first: 张听然
+  last: Zhang
+  role: B.S. Student
+  alum: false
+  email: "13252004700@163.com"
+  headshot: "/assets/headshots/tingran_zhang.jpg"
+
 - first: 徐步强
   last: Xu
   role: B.S. Student

@@ -115,6 +115,13 @@
   email: "liushuliang@stumail.neu.edu.cn"
   headshot: "/assets/headshots/shuliang_liu.jpg"
 
+- first: 段少华
+  last: Duan
+  role: M.S. Student
+  alum: false
+  email: "2471995@stu.neu.edu.cn"
+  headshot: "/assets/headshots/shaohua_duan.jpg"
+
 - first: 张听然
   last: Zhang
   role: B.S. Student

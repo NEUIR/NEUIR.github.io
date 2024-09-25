@@ -1,1 +1,0 @@
-forked from https://github.com/greenelab/lab-website-template
